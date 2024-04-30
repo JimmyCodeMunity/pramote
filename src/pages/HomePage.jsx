@@ -24,7 +24,7 @@ const HomePage = () => {
         </div>
       </div>
 
-      <div className="flex justify-center items-start sm:px-16 px-6 bg-white">
+      <div className="flex justify-center items-start mt-10 sm:px-16 px-6 bg-white">
         <div className="w-full xl:max-w-[1280px]">
           
           <Services />
